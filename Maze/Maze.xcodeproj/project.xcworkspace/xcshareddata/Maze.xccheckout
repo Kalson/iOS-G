@@ -12,22 +12,34 @@
 	<dict>
 		<key>A501D738-362B-4513-987A-860F2BE94A6D</key>
 		<string>https://github.com/Kalson/iOS-K.git</string>
+		<key>CC3B363606F3E3DDE76CB26EC09079209AC864D1</key>
+		<string>https://github.com/Kalson/iOS-G.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Maze/Maze.xcodeproj/project.xcworkspace</string>
+	<string>Maze/Maze.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A501D738-362B-4513-987A-860F2BE94A6D</key>
+		<string>../../../../iOS-K</string>
+		<key>CC3B363606F3E3DDE76CB26EC09079209AC864D1</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Kalson/iOS-K.git</string>
+	<string>https://github.com/Kalson/iOS-G.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>A501D738-362B-4513-987A-860F2BE94A6D</string>
+	<string>CC3B363606F3E3DDE76CB26EC09079209AC864D1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC3B363606F3E3DDE76CB26EC09079209AC864D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-G</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
